@@ -5591,19 +5591,6 @@
     </include>
 
     <include>
-      <name>person_standing_76</name>
-      <pose>
-      133.73
-      -1.79
-      5.31
-      0
-      0
-      -0.94
-      </pose>
-      <uri>model://person_standing</uri>
-    </include>
-
-    <include>
       <name>pier_77</name>
       <pose>
       199.63
